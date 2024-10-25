@@ -4,7 +4,7 @@
 
 Hi, everyone!👋 I'm Arlesha. I'm a ServiceNow Developer and a highly motivated and self-taught coder. I have a deep passion for pursuing and learning new things whether it's a new coding language or even a crafting project. Outside of my love for all things tech, I have a serious case of wanderlust 🗺️, a major chocolate addiction 🍫, and a love for scrapbooking, cooking, and cheering on St. Louis sports teams ⚾.
 
-- 🔭 I'm currently working on a few ServiceNow projects for Hacktoberfest
+- 🔭 I'm currently working on coding projects for a CS50 course
 - 🌱 I'm currently learning: SQL, Models, and Migrations; JavaScript; User Interfaces; Testing, CI/CD; Scalability and Security
 -  ⚡ Fun fact: I love The Big Bang Theory sitcom ⚛️    
 
