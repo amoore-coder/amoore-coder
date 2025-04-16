@@ -1,31 +1,34 @@
- <h1>Hi, I'm Arlesha! <br/><a href="https://github.com/amoore-coder">Programmer</a>, <a href="https://www.linkedin.com/in/arlesha-moore/">ServiceNow Developer</a>, <a href="https://www.youtube.com/c/DevTechChronicles">YouTuber</a></h1>
+ <h1>Hi, I'm Arlesha!</h1>
 
 **<p align="center">The destination is never final, I live for the journey.</p>**
 
-Hi, everyone!👋 I'm Arlesha. I'm a ServiceNow Developer and a highly motivated and self-taught coder. I have a deep passion for pursuing and learning new things whether it's a new coding language or even a crafting project. Outside of my love for all things tech, I have a serious case of wanderlust 🗺️, a major chocolate addiction 🍫, and a love for scrapbooking, cooking, and cheering on St. Louis sports teams ⚾.
+I'm a ServiceNow Developer and a highly motivated and self-taught coder. I have a deep passion for pursuing and learning new things whether it's a new coding language or even a crafting project. Outside of my love for all things tech, I have a serious case of wanderlust 🗺️, a major chocolate addiction 🍫, and a love for scrapbooking, cooking, and cheering on St. Louis sports teams ⚾.
  
 
 <h2>👨‍💻 Projects:</h2>
 
 <h3>ServiceNow:</h3>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Loaner Vehicle Inventory and Request Management](https://github.com/amoore-coder/Loaner-Vehicle-Inventory-and-Request-Management)
+
+  - [Galactic Experiment Tracker](https://github.com/amoore-coder/Galactic-Experiment-Tracker)
  
 <h3>Software Development:</h3>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Programming Languages Used: HTML, CSS, Python, Django</b>
+  - [Designing Front-end for Google)](https://www.youtube.com/watch?v=g-trhZXcEUs)
+    
+  - [Designing Wikipedia-like Online Encyclopedia)](https://www.youtube.com/watch?v=icY3uulO58Q)
 
 <h2> Certifications </h2>
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [ITIL v4](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [ServiceNow CSA](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [ServiceNow CAD](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [ServiceNow CIS-ITSM](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [CompTIA Security+](https://www.linkedin.com/posts/arlesha-moore_comptia-security-ce-certification-was-issued-activity-7272240480606674944-jNfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDaPYBL6J7ZeeUh0bNz7YfMyXjFykh-Dw)
+    
+  - [ServiceNow CSA](https://www.linkedin.com/posts/arlesha-moore_csa-activity-7224760826144907265-YO76?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDaPYBL6J7ZeeUh0bNz7YfMyXjFykh-Dw)
+    
+  - [ServiceNow CAD](https://www.linkedin.com/posts/arlesha-moore_cad-activity-7234718500647231488-zDd6?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDaPYBL6J7ZeeUh0bNz7YfMyXjFykh-Dw)
+    
+  - [ServiceNow CIS-ITSM](https://www.linkedin.com/in/arlesha-moore/details/certifications/1727138038060/single-media-viewer/?profileId=ACoAABwDaPYBL6J7ZeeUh0bNz7YfMyXjFykh-Dw)
 
 
 
