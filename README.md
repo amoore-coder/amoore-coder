@@ -32,16 +32,6 @@ I'm a ServiceNow Developer and a highly motivated and self-taught coder. I have 
 
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="ArleshaMoore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ArleshaMoore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[youtube]: https://www.youtube.com/@DevTechChronicles
-[linkedin]: https://linkedin.com/in/arlesha-moore
-
-
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amoore-coder&theme=onedark&hide_border=true)
 
 
