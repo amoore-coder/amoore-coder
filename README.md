@@ -38,7 +38,7 @@ I'm a ServiceNow Developer and a highly motivated and self-taught coder. I have 
 [<img align="left" alt="ArleshaMoore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/DevTechChronicles
+[youtube]: https://www.youtube.com/DevTechChronicles
 [linkedin]: https://linkedin.com/in/arlesha-moore
 
 
